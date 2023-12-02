@@ -1,0 +1,23 @@
+hurricanes cat1 cat2 cat3 cat4 cat5
+cat5 FL_cat5 SC_cat5 LA_cat5
+cat4 GA_cat4 TX_cat4 LA_cat4 FL_cat4
+cat3 FL_cat3 NC_cat3 SC_cat3
+cat2 FL_cat2 TX_cat2 GA_cat2 AL_cat2
+cat1 FL_cat1 LA_cat1 MS_cat1
+FL_cat5 Gaston Colin
+SC_cat5 Dorian
+LA_cat5 Don
+GA_cat4 Harvey Colin
+TX_cat4 Katia Don
+LA_cat4 Nate Bonnie
+FL_cat4 Philippe Emily
+FL_cat3 Tammy Karl Henri
+NC_cat3 Colin Dorian
+SC_cat3 Arthur Emily
+FL_cat2 Emily
+TX_cat2 Bonnie Katia Don
+GA_cat2 Henri Julia
+AL_cat2 Ida Karl Henri
+FL_cat1 Julia
+LA_cat1 Wanda Katia Don
+MS_cat1 Karl Henri
