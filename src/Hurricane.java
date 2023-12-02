@@ -15,7 +15,7 @@ import java.io.*;
  * print out each case.
  */
 
-public class HW3 {
+public class Hurricane {
    public static void main (final String[] args) {
       // Data and query files
       final String data = args[0];
